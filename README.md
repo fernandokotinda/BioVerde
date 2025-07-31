@@ -1,3 +1,12 @@
+<p align="center">
+  <strong style="font-size: 1.2rem;">⚠️ Atenção!</strong><br>
+  O link para acessar o sistema BioVerde ainda não está disponível publicamente.<br>
+  Por enquanto, você pode assistir um vídeo explicativo mostrando o sistema em funcionamento.<br><br>
+  <a href="https://www.youtube.com/watch?v=8SN33KWR5TI" target="_blank">
+    <img src="https://img.shields.io/badge/Ver Vídeo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver vídeo no YouTube">
+  </a>
+</p>
+
 # 🌱 BioVerde | Sistema de Gestão
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,11 +82,7 @@ O projeto será desenvolvido com as seguintes tecnologias:
 
 👨‍💻 **Murilo Luiz Jaboinski**  
 👩‍💻 **Fernando Kotinda**  
-👩‍💻 **Ana Beatriz da Costa Silva**  
 👩‍💻 **Carlos Bandeira**  
-👩‍💻 **André Laurindo**  
-👩‍💻 **Leonardo Oliveira**  
-👩‍💻 **Guilherme Anholeto**
 
 Se deseja contribuir com o projeto, sinta-se à vontade para abrir um pull request! 🚀
 
